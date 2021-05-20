@@ -10,7 +10,7 @@ library(lmtest)
 
 # Data =========================================================================
 # Import data from csv file
-birthweight_smoking <- read.csv(file = "/Users/dilasasmaz/Documents/GitHub/ECON---21020/Pset #4/birthweight_smoking.csv", header = TRUE, sep = ";")
+birthweight_smoking <- read.csv(file = "~/Documents/GitHub/ECON---21020/Pset #4/birthweight_smoking.csv", header = TRUE, sep = ";")
 
 #Summary Statistics ============================================================
 
